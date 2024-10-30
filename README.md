@@ -6,7 +6,7 @@
 - cursando o ensino médio no Colégio Padre Cláudio Morelli
 - faixa branca no jiu-jitsu na escola Melqui Galvão
 
-![](https://media.tenor.com/JoD0eHHPFsIAAAAi/disney.gif)
+![](https://media.tenor.com/90LqDXdZLloAAAAi/smirking-moana.gif)
 
 - [alura](https://cursos.alura.com.br/dashboard)
 <!--
