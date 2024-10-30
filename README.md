@@ -3,8 +3,10 @@
 - 15 anos 
 - manauara 🐆
 - blogueira do instagram @ea_bebba_01
+- deborah.nascimento.oliveira@escola.pr.gov.br
 - cursando o ensino médio no Colégio Padre Cláudio Morelli
 - faixa branca no jiu-jitsu na escola Melqui Galvão
+- [youtube](https://ffm.to/letsgo4)
 
 ![](https://media.tenor.com/90LqDXdZLloAAAAi/smirking-moana.gif)
 
