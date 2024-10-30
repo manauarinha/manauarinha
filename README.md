@@ -1,11 +1,14 @@
 ## Bem Vindo ao meu Perfil! 👋
-Deborah Fabiane
-15 anos 
-manauara 🐆
-blogueira do instagram @ea_bebba_01
-cursando o ensino médio no Colégio Padre Cláudio Morelli
-faixa branca no jiu-jitsu na escola Melqui Galvão
+- Deborah Fabiane
+- 15 anos 
+- manauara 🐆
+- blogueira do instagram @ea_bebba_01
+- cursando o ensino médio no Colégio Padre Cláudio Morelli
+- faixa branca no jiu-jitsu na escola Melqui Galvão
 
+![](https://media.tenor.com/JoD0eHHPFsIAAAAi/disney.gif)
+
+- [alura](https://cursos.alura.com.br/dashboard)
 <!--
 **manauarinha/manauarinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
